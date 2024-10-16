@@ -32,7 +32,21 @@
 
 ### Papers to read for CapEx - Climate relation
 
+Here are summaries and methodologies of the three research papers I mentioned earlier:
 
+### 1. **Operational versus Capital Expenditure Risk in a Clean Energy Transition**
+   - **Summary**: This report by Brian C. Prest and Jordan Wingenroth investigates the comparative risks associated with traditional fossil fuel assets and green energy investments. It argues that while fossil fuel assets primarily face operational expenditure (OPEX) risks, green assets are more affected by capital expenditure (CapEx) risks. The authors demonstrate that an all-green investment portfolio generally has lower cost uncertainty than an all-fossil portfolio. This research underscores the importance of green investments in reducing long-term cost volatility due to fuel price spikes and regulatory risks associated with fossil fuels.
+   - **Methodology**: The paper employs a dynamic economic model of investment under uncertainty, comparing the risk profiles of fossil and green energy assets. The model calculates the cost uncertainties associated with different types of energy investments and simulates the effects of replacing fossil assets with green alternatives to estimate the impact on overall portfolio risk.
+
+### 2. **Climate Innovation and the New CapEx Cycle**
+   - **Summary**: This research focuses on how the need for climate resilience is driving a new cycle of capital expenditures in various industries. It highlights the role of technological innovations, especially in decarbonization, clean energy, and climate adaptation strategies, as key drivers of CapEx. The study also discusses the financial challenges faced by companies in shifting toward sustainable investments.
+   - **Methodology**: The study analyzes historical CapEx trends in energy, transportation, and other industries, alongside case studies of corporations investing in green technology. It uses economic and financial data to evaluate the returns on green investments compared to traditional investments and measures their long-term sustainability and impact on climate goals【8†source】
+
+### 3. **The Relationship Between Climate Risk and Physical and Organizational Capital**
+   - **Summary**: This paper explores how climate risks influence the investment decisions of companies regarding physical and organizational capital. It finds that companies in industries highly exposed to climate risks, such as agriculture and manufacturing, prioritize investment in physical assets like infrastructure and technology upgrades. However, these companies reduce their spending on organizational capital (e.g., workforce training and development) due to the uncertainty caused by climate-related events.
+   - **Methodology**: The authors use empirical data from various sectors to analyze how firms adjust their CapEx and OPEX in response to climate risk. They apply econometric models to assess the effects of extreme weather events and regulatory changes on corporate investment behavior. The data is drawn from financial reports, climate risk disclosures, and historical climate events
+
+These summaries provide insights into how CapEx is increasingly shaped by climate concerns, and the methodologies used reflect a combination of economic modeling, empirical analysis, and case study evaluations.
 
 ### Carbon pricing in India
 
