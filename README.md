@@ -32,50 +32,6 @@
 
 ### Papers to read for CapEx - Climate relation
 
-#### 1. **"Capital Expenditure, Climate Risk, and Corporate Performance: Evidence from a Global Sample" by Eccles, Ioannou, and Serafeim (2020)**
-- **Summary:** This paper examines how companies’ capital expenditure on climate adaptation and mitigation affects their carbon emissions and financial performance. It analyzes a global sample of firms and assesses how investment in climate-resilient assets influences emissions, operating costs, and profitability.
-- **Key Findings:** The study finds that firms that invest in reducing their carbon footprint through CapEx tend to have lower emissions over time and may experience improved financial performance due to efficiency gains and reduced regulatory risks.
-- **Publication:** Available in journals focusing on corporate sustainability and finance.
-
-#### 2. **"Corporate Investment in Climate Change Mitigation: An Analysis of Carbon Emissions and Capital Expenditures" by Matsumura, Prakash, and Vera-Muñoz (2014)**
-- **Summary:** This research explores the relationship between corporate capital expenditures aimed at mitigating climate change and the resultant carbon emissions. It looks at how CapEx in low-carbon technologies and energy efficiency projects impacts companies’ carbon intensity and financial outcomes.
-- **Key Findings:** The paper concludes that there is a significant negative correlation between climate-focused CapEx and carbon emissions, suggesting that investments in mitigation efforts effectively reduce emissions. Additionally, the study finds that investors positively value such expenditures.
-- **Publication:** Published in *The Accounting Review*.
-
-#### 3. **"Climate Change Mitigation and Capital Investment in the Energy Sector" by the International Energy Agency (IEA) (2021)**
-- **Summary:** This report provides an analysis of capital investments required in the energy sector to achieve climate mitigation targets. It quantifies the CapEx needed for renewable energy, energy efficiency, carbon capture, and storage (CCS) technologies and their impact on reducing carbon emissions.
-- **Key Findings:** The IEA emphasizes that significant capital investment in low-carbon technologies is crucial for achieving emissions reduction targets set by the Paris Agreement.
-- **Publication:** Available on the IEA website.
-
-#### 4. **"Do Environmental Investments Lead to Lower Carbon Emissions? The Role of CapEx in Driving Sustainability Performance" by Choi, Luo, and Shapiro (2017)**
-- **Summary:** This paper investigates whether capital expenditures on environmental initiatives, including carbon reduction projects, lead to lower carbon emissions for companies. It uses data from multiple industries to examine the impact of green investments on emissions intensity.
-- **Key Findings:** The study shows that companies with higher environmental CapEx tend to report lower carbon emissions intensity, suggesting that investments in sustainability can result in tangible environmental benefits.
-- **Publication:** Published in *Journal of Business Ethics*.
-
-#### 5. **"Capital Expenditure, Carbon Emission Intensity, and Stock Returns: Evidence from the European Union Emission Trading Scheme" by Choi and Wang (2020)**
-- **Summary:** This research focuses on the European Union Emission Trading Scheme (EU ETS) and examines how capital expenditure aimed at reducing carbon emissions affects carbon emission intensity and stock returns of participating companies.
-- **Key Findings:** The paper finds that companies investing in carbon-reduction technologies and infrastructure show reduced emission intensity and enhanced stock performance, especially when carbon prices are high.
-- **Publication:** Published in *Journal of Cleaner Production*.
-
-#### 6. **"Capital Expenditures and Climate Risk: Corporate Responses to Climate Change in the Oil and Gas Sector" by Clarkson, Li, and Pinnuck (2019)**
-- **Summary:** This study examines the relationship between capital expenditure on climate risk mitigation and carbon emissions among oil and gas companies. It analyzes how these firms' investments in cleaner technologies and renewable energy impact their carbon footprints.
-- **Key Findings:** The research highlights that oil and gas companies with higher CapEx in renewable energy and carbon capture technologies tend to exhibit lower carbon emissions intensity over time.
-- **Publication:** Published in *Accounting, Organizations, and Society*.
-
-#### 7. **"Carbon Disclosure and Capital Expenditure: Evidence from the Global Automobile Industry" by Sierzchula and Van Wee (2015)**
-- **Summary:** This paper investigates how the disclosure of carbon emissions influences capital expenditure decisions in the global automobile industry. It assesses whether firms that disclose carbon emissions are more likely to invest in low-carbon technologies and infrastructure.
-- **Key Findings:** The study finds a positive correlation between carbon disclosure and CapEx in sustainable technologies, suggesting that transparency in emissions reporting encourages investments that reduce emissions.
-- **Publication:** Published in *Environmental Science & Policy*.
-
-#### 8. **"Transition to a Low-Carbon Economy: The Role of CapEx and Climate Strategy in Corporate Performance" by TCFD (Task Force on Climate-related Financial Disclosures) (2022)**
-- **Summary:** This report discusses the link between companies' capital expenditure on low-carbon technologies and climate strategies and their overall financial performance. It provides guidance on integrating CapEx decisions into climate-related financial disclosures.
-- **Key Findings:** It emphasizes that proactive CapEx in response to climate risks can improve financial resilience, reduce future liabilities, and enhance a company’s market position.
-- **Publication:** Available on the TCFD website.
-
-#### 9. **"CapEx and Corporate Sustainability: Impact on Carbon Emissions and Firm Value" by Deloitte Insights (2021)**
-- **Summary:** This research explores how corporate CapEx in sustainability initiatives, particularly in carbon reduction, impacts both emissions and firm value. It provides case studies and data analysis across multiple sectors.
-- **Key Findings:** The study concludes that firms that allocate a higher proportion of CapEx to sustainability efforts, such as renewable energy and energy efficiency, show a marked decrease in carbon emissions and often experience an uptick in market valuation.
-- **Publication:** Available on the Deloitte Insights website.
 
 
 ### Carbon pricing in India
